@@ -13,10 +13,6 @@ exports.homeRoutes = (req, res) => {
    
 }
 
-exports.dashboard = (req, res) => {
-    res.render('dashboard');
-}
-
 exports.addstud = (req, res) => {
     res.render('addstud');
 }
