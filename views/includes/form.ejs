@@ -1,0 +1,51 @@
+ <!-- form handling -->
+ <form action="/api/studs" method="POST" id="add_stud">
+    <div class="new_stud">
+        <div class="form-group">
+            <label for="name" class="text-light">Full Name</label>
+            <input type="hidden" name="id" value="">
+            <input required type="text" name="name" value="" placeholder="full name">
+        </div>
+        <div class="form-group">
+            <label for="grade" class="text-light">Age</label>
+            <input required type="number" name="age" value="" placeholder="19" >
+        </div>
+        <div class="form-group">
+            <label for="grade" class="text-light">Grade</label>
+            <input required type="number" name="grade" value="" >
+        </div>
+        
+        <div class="form-group">
+            <label for="gender" class="text-light">Gender</label>
+            <div class="radio inline">
+                <input required type="radio" id="radio-2" name="gender" value="Male" >
+                <label for="radio-2" class="radio-label">Male</label>
+            </div>
+            <div class="radio inline">
+                <input required type="radio" id="radio-3" name="gender" value="Female" >
+                <label for="radio-3" class="radio-label">Female</label>
+            </div>
+        </div>
+        
+       
+
+        <div class="form-group">
+            <label for="status" class="text-light">Status</label>
+            <div class="radio inline">
+                <input required type="radio" id="radio-4" name="status" value="pass" >
+                <label for="radio-4" class="radio-label">Pass</label>
+            </div>
+            <div class="radio inline">
+                <input required type="radio" id="radio-5" name="status" value="fail" >
+                <label for="radio-5" class="radio-label">Fail</label>
+            </div>
+        </div>
+
+        
+       
+        <div class="form-group">
+            <button type="submit" class="btn text-dark update">add student</button>
+        </div>
+
+    </div>
+</form>

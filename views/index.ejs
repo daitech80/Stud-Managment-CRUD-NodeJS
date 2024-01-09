@@ -1,0 +1,44 @@
+
+<!-- include header -->
+<%- include('includes/header') %>
+<!-- /include header -->
+
+
+    <!-- Main Site -->
+    <main id="site-main">
+        <div class="container">
+            <div class="box-nav d-flex justify-between">
+                <a href="/addstud" class="border-shadow">
+                    <span class="text-gradient">Add Student <i class="fas fa-user"></i></span>
+                </a>
+            </div>
+
+            <!-- form handling -->
+            <form action="/" method="POST">
+                <table class="table">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th>ID</th>
+                            <th>Full Name</th>
+                            <th>age</th>
+                            <th>Grade</th>
+                            <th>Gender</th>
+                            <th>Status</th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+            
+                        <%- include('includes/view') %>
+                    </tbody>
+                </table>
+            </form>
+        
+        </div>
+    </main>
+<!-- /Main Site -->
+
+
+<!-- include footer -->
+<%- include('includes/footer') %>
+<!-- /include footer -->

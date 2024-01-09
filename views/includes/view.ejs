@@ -1,0 +1,19 @@
+<% for(var i = 0; i<studs.length; i++) {%>
+<tr>
+   <td><%= i + 1 %></td>
+   <td><%= studs[i].name %></td>
+   <td><%= studs[i].age %></td>
+   <td><%= studs[i].grade %></td>
+   <td><%= studs[i].gender %></td>
+   <td><%= studs[i].status %></td>
+   <td>
+    <a href="/updatestud?id=<%= studs[i]._id%>" class="btn border-shadow update">
+        <span class="text-update"><i class="fas fa-pencil-alt"></i></span>
+    
+    </a>
+    <a class="btn border-shadow delete" data-id="<%= studs[i]._id%>">
+        <span class="text-delete"><i class="fa fa-trash"></i></span>
+    </a>
+   </td>
+</tr>
+<% } %>
