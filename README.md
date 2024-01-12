@@ -44,6 +44,6 @@ An Example of Student-Managment-crud-Node.js App(Create, Read, Update, Delete) a
 -PUT /api/studs:id: Update an studs by id.
 -DELETE /api/studs:id:  Delete an studs by id.
 
-##License
+## license
 This project is licensed under the MIT License.
    git clone https://github.com/phllindtech80/Stud-Managment-CRUD-NodeJS.git
