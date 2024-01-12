@@ -7,10 +7,10 @@ An Example of Student-Managment-crud-Node.js App(Create, Read, Update, Delete) a
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [License](#license)
+- etc
 
 ## Features
 - Create: Add new studs to the database.
