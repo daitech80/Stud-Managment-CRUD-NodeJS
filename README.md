@@ -40,10 +40,10 @@ A simple Node.js CRUD (Create, Read, Update, Delete) application using [Express.
 
    
 ## API Endpoints
-POST /api/studs: Create a new item.
-GET /api/studs: Get a specific item by ID.
-PUT /api/studs:id: Update an item by ID.
-DELETE /api/studs:id:  Delete an item by ID.
+-POST /api/studs: Create a new item.
+-GET /api/studs: Get a specific item by ID.
+-PUT /api/studs:id: Update an item by ID.
+-DELETE /api/studs:id:  Delete an item by ID.
 
 
    git clone https://github.com/phllindtech80/Stud-Managment-CRUD-NodeJS.git
