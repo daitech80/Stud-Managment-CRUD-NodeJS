@@ -1,6 +1,6 @@
-# Node.js CRUD App
+# Stud-Managment-crud-Node.js App
 
-A simple Node.js CRUD (Create, Read, Update, Delete) application using [Express.js](https://expressjs.com/) and [MongoDB](https://www.mongodb.com/).
+An Example of Student-Managment-crud-Node.js App(Create, Read, Update, Delete) application using [Express.js](https://expressjs.com/) and [MongoDB](https://www.mongodb.com/).
 
 ## Table of Contents
 
@@ -10,14 +10,13 @@ A simple Node.js CRUD (Create, Read, Update, Delete) application using [Express.
 - [Project Structure](#project-structure)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
-- Create: Add new items to the database.
-- Read: Retrieve and display items from the database.
-- Update: Modify existing items in the database.
-- Delete: Remove items from the database.
+- Create: Add new studs to the database.
+- Read: Retrieve and display studs from the database.
+- Update: Modify existing studs in the database.
+- Delete: Remove studs from the database.
 
 ## Prerequisites
 
@@ -40,10 +39,11 @@ A simple Node.js CRUD (Create, Read, Update, Delete) application using [Express.
 
    
 ## API Endpoints
--POST /api/studs: Create a new item.
--GET /api/studs: Get a specific item by ID.
--PUT /api/studs:id: Update an item by ID.
--DELETE /api/studs:id:  Delete an item by ID.
+-POST /api/studs: Create a new studs.
+-GET /api/studs: Get a specific studs by id.
+-PUT /api/studs:id: Update an studs by id.
+-DELETE /api/studs:id:  Delete an studs by id.
 
-
+##License
+This project is licensed under the MIT License.
    git clone https://github.com/phllindtech80/Stud-Managment-CRUD-NodeJS.git
