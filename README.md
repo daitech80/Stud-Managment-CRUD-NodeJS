@@ -30,4 +30,20 @@ A simple Node.js CRUD (Create, Read, Update, Delete) application using [Express.
 
    ```bash
     cd studcrud
-   git clone https://github.com/your-username/node-crud-app.git
+   1.##Install dependencies
+   
+   ```npm install
+
+   2.##Run the app
+   
+   ```npm start
+
+   
+## API Endpoints
+POST /api/studs: Create a new item.
+GET /api/studs: Get a specific item by ID.
+PUT /api/studs:id: Update an item by ID.
+DELETE /api/studs:id:  Delete an item by ID.
+
+
+   git clone https://github.com/phllindtech80/Stud-Managment-CRUD-NodeJS.git
