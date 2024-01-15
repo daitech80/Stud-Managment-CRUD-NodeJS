@@ -25,7 +25,7 @@ An Example of Student-Managment-crud-Node.js App(Create, Read, Update, Delete) a
 
 ## Getting Started
 
-1. Clone the repository:
+1. Clone the repository:  git clone https://github.com/phllindtech80/Stud-Managment-CRUD-NodeJS.git
 
    ```bash
     cd studcrud
@@ -46,4 +46,3 @@ An Example of Student-Managment-crud-Node.js App(Create, Read, Update, Delete) a
 
 ## license
 This project is licensed under the MIT License.
-   git clone https://github.com/phllindtech80/Stud-Managment-CRUD-NodeJS.git
