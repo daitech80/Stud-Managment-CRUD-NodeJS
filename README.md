@@ -40,9 +40,12 @@ An Example of Student-Managment-crud-Node.js App(Create, Read, Update, Delete) a
    
 ## API Endpoints
 -POST /api/studs: Create a new studs.
+
 -GET /api/studs: Get a specific studs by id.
 -PUT /api/studs:id: Update an studs by id.
 -DELETE /api/studs:id:  Delete an studs by id.
 
-## license
-This project is licensed under the MIT License.
+![Screenshot 2024-01-30 001255](https://github.com/phllindtech80/Stud-Managment-CRUD-NodeJS/assets/154749346/660dbc5c-3620-424c-8b05-9575cb049c1e)
+![Screenshot 2024-01-30 001324](https://github.com/phllindtech80/Stud-Managment-CRUD-NodeJS/assets/154749346/5312e0d2-ec3c-4efc-8c2e-b6ff62c41908)
+
+![Screenshot 2024-01-30 001255](https://github.com/phllindtech80/Stud-Managment-CRUD-NodeJS/assets/154749346/660dbc5c-3620-424c-8b05-9575cb049c1e)
