@@ -9,8 +9,7 @@ An Example of Student-Managment-crud-Node.js App(Create, Read, Update, Delete) a
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
-- [License](#license)
-- etc
+
 
 ## Features
 - Create: Add new studs to the database.
@@ -48,4 +47,3 @@ An Example of Student-Managment-crud-Node.js App(Create, Read, Update, Delete) a
 ![Screenshot 2024-01-30 001255](https://github.com/phllindtech80/Stud-Managment-CRUD-NodeJS/assets/154749346/660dbc5c-3620-424c-8b05-9575cb049c1e)
 ![Screenshot 2024-01-30 001324](https://github.com/phllindtech80/Stud-Managment-CRUD-NodeJS/assets/154749346/5312e0d2-ec3c-4efc-8c2e-b6ff62c41908)
 
-![Screenshot 2024-01-30 001255](https://github.com/phllindtech80/Stud-Managment-CRUD-NodeJS/assets/154749346/660dbc5c-3620-424c-8b05-9575cb049c1e)
