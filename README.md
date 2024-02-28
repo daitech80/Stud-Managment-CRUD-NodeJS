@@ -27,7 +27,7 @@ An Example of Student-Managment-crud-Node.js App(Create, Read, Update, Delete) a
 1. Clone the repository:  
 
    ```bash
-   git clone https://github.com/phllindtech80/Stud-Managment-CRUD-NodeJS.git
+   git clone https://github.com/daitech80/Stud-Managment-CRUD-NodeJS.git
    1.##Install dependencies
    
    ```npm install
